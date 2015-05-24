@@ -45,22 +45,4 @@ return [
     'USER_STATUS_ACTIVE' => 'Активен',
     'USER_STATUS_WAIT' => 'Ожидает подтверждения',
     'USER_VERIFY_CODE' => 'Код',
-    'USER_BUTTON_SIGNUP' => 'Войти',
-
-    'PLEASE_FILL_FOR_LOGIN' => 'Для входа на сайт введите данные своей учётной записи:',
-    'PLEASE_FILL_FOR_SIGNUP' => 'Для регистрации заполните следующие поля:',
-    'PLEASE_FILL_FOR_RESET_REQUEST' => 'Введите свой Email и мы пришлём Вам инструкцию по восстановлению:',
-    'PLEASE_FILL_FOR_RESET' => 'Введите новый пароль:',
-
-    'ERROR_USERNAME_EXISTS' => 'Это имя пользователя уже занято.',
-    'ERROR_EMAIL_EXISTS' => 'Этот Email уже используется.',
-    'ERROR_WRONG_CURRENT_PASSWORD' => 'Неверный текущий пароль.',
-    'ERROR_WRONG_USERNAME_OR_PASSWORD' => 'Неверное имя пользователя или пароль.',
-    'ERROR_PROFILE_BLOCKED' => 'Ваш аккаунт заблокирован.',
-    'ERROR_PROFILE_NOT_CONFIRMED' => 'Ваш аккаунт не подтвежден.',
-
-    'HELLO {username}' => 'Здравствуйте, {username}!',
-    'FOLLOW_TO_RESET_PASSWORD' => 'Для смены пароля пройдите по ссылке:',
-    'FOLLOW_TO_CONFIRM_EMAIL' => 'Для подтверждения адреса пройдите по ссылке:',
-    'IGNORE_IF_DO_NOT_REGISTER' => 'Если Вы не регистрировались на нашем сайте, то просто удалите это письмо.'
-];
+    'USER_BUTTON_SIGNUP' => 'Зарегистрироваться';
